@@ -9,7 +9,7 @@ router.get("*", (req, res) => {
 
   /* DRAFT */
   // res.set("Cache-Control", "public, max-age=86400");
-  res.status(200).sendFile(process.cwd() + "/files/cluster" + req.url.split("?")[0], (err) => {
+  res.status(200).sendFile(process.cwd() + "/files" + req.url.split("?")[0], (err) => {
     if (err) return res.status(404).end("content not found.");
   });
 });
