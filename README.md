@@ -1,10 +1,4 @@
-<h1 align="center">
-    <a href="https://files.blob-project.com"><img src="https://files.blob-project.com/cluster/maxima/cdn-docs/fox.png" width="128px" alt="Blob Project: CDN"></a>
-</h1>
-
----
-
-# Blob Project: CDN (Open-Source)
+# Blob Project: Files Hosting (Open-Source)
 Easy-to-use, customizable, secured, up-to-date and minimalist.
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Blob-Development/cdn-server)
